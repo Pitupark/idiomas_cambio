@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">idiomas_cambio</string>
+    <string name="info">Informacion Personal</string>
+    <string name="EtiNombre">Nombre :</string>
+    <string name="EtiApe1">Apellido 1 :</string>
+    <string name="EtiApe2">Apellido 2 :</string>
+    <string name="EtTelf">Numero de Teléfono :</string>
+    <string name="EtMail">Email :</string>
+    <string name="EtMail2">Confirmar email :</string>
+    <string name="Etsocio">¿Eres socio del Real Madrid?</string>
+    <string name="Etanos">¿Tienes menos de 18 años?</string>
+    <string name="Etreside">¿Resides fuera de España?</string>
+    <string name="rbtn1">Si</string>
+    <string name="rbtn2">No</string>
+    <string name="rbtn3">Si</string>
+    <string name="rbtn4">No</string>
+    <string name="rbtn5">Si</string>
+    <string name="rbtn6">No</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">language_changes</string>
+    <string name="info">Personal Information</string>
+    <string name="EtiNombre">Name :</string>
+    <string name="EtiApe1">Last Name 1 :</string>
+    <string name="EtiApe2">Last Name 2 :</string>
+    <string name="EtTelf">Phone Number :</string>
+    <string name="EtMail">Email :</string>
+    <string name="EtMail2">To Confirm email :</string>
+    <string name="Etsocio">Are you a Real Madrid membership?</string>
+    <string name="Etanos">Are you under 18 years of age?</string>
+    <string name="Etreside">Do you live outside Spain?</string>
+    <string name="rbtn1">Yes</string>
+    <string name="rbtn2">No</string>
+    <string name="rbtn3">Yes</string>
+    <string name="rbtn4">No</string>
+    <string name="rbtn5">Yes</string>
+    <string name="rbtn6">No</string>
+</resources>
